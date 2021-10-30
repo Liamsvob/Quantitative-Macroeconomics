@@ -1,4 +1,4 @@
-//Pavé Guillaume 	Student number : 16409823
+//PavÃ© Guillaume 	Student number : 16409823
 //Svoboda Liam	Student number : 16834509
 
 // Preamble
@@ -48,7 +48,7 @@ w = (1-alpha)*A*k(-1)^alpha*h^(-alpha); // Wage
 end;
 
 // Steady State
-//***********************************************************
+// ***********************************************************
 
 initval;
 
@@ -76,7 +76,7 @@ steady;
 resid;
 
 // Specification of Shocks
-//***********************************************************
+// ***********************************************************
 
 shocks;
 
@@ -87,7 +87,7 @@ end;
 
 
 // Computation
-//***********************************************************
+// ***********************************************************
 
 /* Stochastic Simulation
 Order: Order is set to 1 to denote the linear order of our taylor series approximation
